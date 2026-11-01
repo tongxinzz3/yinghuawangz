@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tongxinzz3.github.io/yinghuawangz/sitemap.xml
